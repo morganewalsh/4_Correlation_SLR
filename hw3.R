@@ -1,0 +1,5 @@
+list.files()
+fishermen <- read.csv("fishermen_hair.csv")
+dim(fishermen)
+head(fishermen)
+str(fishermen)
